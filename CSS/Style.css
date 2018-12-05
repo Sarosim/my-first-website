@@ -39,8 +39,8 @@ nav a:hover {
     color: rgb(255,255,255);
 }
 h1 {
-    color: rgba(12,222,222,70);
-    text-shadow: white);
+    color: rgba(12,222,222,0.7);
+    text-shadow:5px 5px 10px blue;
     text-align: left;
     font-size: 3em;
     padding-top: 1em;
